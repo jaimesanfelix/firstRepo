@@ -1,3 +1,1 @@
 # firstRepo
-
-Hola mundo
